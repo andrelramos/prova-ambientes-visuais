@@ -1,0 +1,15 @@
+CREATE TABLE Users (
+    id SERIAL NOT NULL,
+    login VARCHAR(30),
+    password VARCHAR(65),
+    nivel INTEGER NOT NULL
+)
+
+CREATE TABLE Games (
+    id SERIAL NOT NULL,
+    name VARCHAR(65),
+    console VARCHAR(65),
+    type VARCHAR(10),
+    value DECIMAL,
+    cost DECIMAL
+)

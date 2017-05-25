@@ -1,0 +1,21 @@
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\GunGames.exe.config
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\GunGames.exe
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\GunGames.pdb
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.csprojResolveAssemblyReference.cache
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.Login.resources
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.Properties.Resources.resources
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.csproj.GenerateResource.Cache
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.exe
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.pdb
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\GunGames.exe.config
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.exe
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.pdb
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\GunGames.exe
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\GunGames.pdb
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\Mono.Security.dll
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\bin\Debug\Npgsql.dll
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.csprojResolveAssemblyReference.cache
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.Login.resources
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.Properties.Resources.resources
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.csproj.GenerateResource.Cache
+C:\Users\11161502360\Desktop\Projeto Ambientes Visuais-20170525T112704Z-001\Projeto Ambientes Visuais\GunGames\GunGames\obj\Debug\GunGames.Painel.resources
